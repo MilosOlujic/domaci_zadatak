@@ -30,3 +30,21 @@ class Program
 }
 ```
 
+### Тест примери
+
+
+``` csharp
+
+Unesi poluprecnik r: 10
+Unesi duzinu izvodnice s: 5
+Povrsina prave kruzne kupe iznosi: 157.07963267949
+
+C:\Users\Korisnik\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe (process 19060) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+```
+
+
+
+
