@@ -45,6 +45,17 @@ Press any key to close this window . . .
 
 ```
 
+``` csharp
+Unesi poluprecnik r: 2
+Unesi duzinu izvodnice s: 6
+Povrsina prave kruzne kupe iznosi: 37.6991118430775
+
+C:\Users\Korisnik\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe (process 17312) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+```
+
 
 
 
